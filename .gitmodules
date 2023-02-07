@@ -1,0 +1,3 @@
+[submodule "implementation"]
+	path = implementation
+	url = https://github.com/zmrocze/resolution-gf.git
