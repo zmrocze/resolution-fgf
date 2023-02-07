@@ -1,3 +1,6 @@
 [submodule "implementation"]
 	path = implementation
 	url = https://github.com/zmrocze/resolution-gf.git
+[submodule "thesis"]
+	path = thesis
+	url = https://github.com/zmrocze/bsc-thesis
